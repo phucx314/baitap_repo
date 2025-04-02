@@ -17,31 +17,26 @@ namespace BaoHiem
             DanhSachBaoHiem = new List<IBaoHiem>();
         }
 
-        // Tính tổng hoa hồng
         public decimal TinhTongHoaHong()
         {
             return DanhSachBaoHiem.Sum(baoHiem => baoHiem.TinhHoaHong());
         }
 
-        // Tính tổng số tiền bán được
         public decimal TinhTongDoanhSo()
         {
             return DanhSachBaoHiem.Sum(baoHiem => baoHiem.SoTien);
         }
 
-        // Kiểm tra xem nhân viên có bán được bảo hiểm trên 10000USD không
         public bool DaBanBaoHiemTren10000()
         {
             return DanhSachBaoHiem.Any(baoHiem => baoHiem.SoTien > 10000);
         }
 
-        // Kiểm tra xem tổng doanh số có dưới 10000USD không
         public bool TongDoanhSoDuoi10000()
         {
             return TinhTongDoanhSo() < 10000;
         }
 
-        // Tính lương nhân viên
         public decimal TinhLuong()
         {
             decimal luongCoBan = 40 * HeSoLuong;
@@ -51,13 +46,11 @@ namespace BaoHiem
 
             decimal luong = luongCoBan + phanThuong;
 
-            // Thêm thưởng 100USD nếu bán được bảo hiểm trên 10000USD
             if (DaBanBaoHiemTren10000())
             {
                 luong += 100;
             }
 
-            // Trừ phạt 30USD nếu tổng doanh số dưới 10000USD
             if (TongDoanhSoDuoi10000())
             {
                 luong -= 30;

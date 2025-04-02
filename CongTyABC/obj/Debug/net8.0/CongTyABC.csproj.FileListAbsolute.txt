@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\OOP\CongTyABC\bin\Debug\net8.0\CongTyABC.exe
+C:\Users\acer\source\repos\OOP\CongTyABC\bin\Debug\net8.0\CongTyABC.deps.json
+C:\Users\acer\source\repos\OOP\CongTyABC\bin\Debug\net8.0\CongTyABC.runtimeconfig.json
+C:\Users\acer\source\repos\OOP\CongTyABC\bin\Debug\net8.0\CongTyABC.dll
+C:\Users\acer\source\repos\OOP\CongTyABC\bin\Debug\net8.0\CongTyABC.pdb
+C:\Users\acer\source\repos\OOP\CongTyABC\obj\Debug\net8.0\CongTyABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\OOP\CongTyABC\obj\Debug\net8.0\CongTyABC.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\OOP\CongTyABC\obj\Debug\net8.0\CongTyABC.AssemblyInfo.cs
+C:\Users\acer\source\repos\OOP\CongTyABC\obj\Debug\net8.0\CongTyABC.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\OOP\CongTyABC\obj\Debug\net8.0\CongTyABC.sourcelink.json
+C:\Users\acer\source\repos\OOP\CongTyABC\obj\Debug\net8.0\CongTyABC.dll
+C:\Users\acer\source\repos\OOP\CongTyABC\obj\Debug\net8.0\refint\CongTyABC.dll
+C:\Users\acer\source\repos\OOP\CongTyABC\obj\Debug\net8.0\CongTyABC.pdb
+C:\Users\acer\source\repos\OOP\CongTyABC\obj\Debug\net8.0\CongTyABC.genruntimeconfig.cache
+C:\Users\acer\source\repos\OOP\CongTyABC\obj\Debug\net8.0\ref\CongTyABC.dll

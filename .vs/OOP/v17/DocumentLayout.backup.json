@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|c:\\users\\acer\\source\\repos\\oop\\congtyabc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|solutionrelative:congtyabc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|c:\\users\\acer\\source\\repos\\oop\\baohiem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|solutionrelative:baohiem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|c:\\users\\acer\\source\\repos\\oop\\congtyabc\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|solutionrelative:congtyabc\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|c:\\users\\acer\\source\\repos\\oop\\congtyabc\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|solutionrelative:congtyabc\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|c:\\users\\acer\\source\\repos\\oop\\baohiem\\baohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|solutionrelative:baohiem\\baohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|c:\\users\\acer\\source\\repos\\oop\\baohiem\\quanlythongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|solutionrelative:baohiem\\quanlythongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|c:\\users\\acer\\source\\repos\\oop\\congtyabc\\iquanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|solutionrelative:congtyabc\\iquanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|c:\\users\\acer\\source\\repos\\oop\\congtyabc\\inhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|solutionrelative:congtyabc\\inhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|c:\\users\\acer\\source\\repos\\oop\\congtyabc\\nhanviensanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|solutionrelative:congtyabc\\nhanviensanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|c:\\users\\acer\\source\\repos\\oop\\congtyabc\\nhanviencongnhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|solutionrelative:congtyabc\\nhanviencongnhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|c:\\users\\acer\\source\\repos\\oop\\congtyabc\\nhanvienquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|solutionrelative:congtyabc\\nhanvienquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|c:\\users\\acer\\source\\repos\\oop\\congtyabc\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|solutionrelative:congtyabc\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|c:\\users\\acer\\source\\repos\\oop\\congtyabc\\loainhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341E714C-796B-44C1-AC89-ABFE02193A80}|CongTyABC\\CongTyABC.csproj|solutionrelative:congtyabc\\loainhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E60DAA-073E-4E27-B2F1-9D346D3BAA82}|LamLai\\LamLaiBai1.csproj|c:\\users\\acer\\source\\repos\\oop\\lamlai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E60DAA-073E-4E27-B2F1-9D346D3BAA82}|LamLai\\LamLaiBai1.csproj|solutionrelative:lamlai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|c:\\users\\acer\\source\\repos\\oop\\baohiem\\congtybaohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|solutionrelative:baohiem\\congtybaohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|c:\\users\\acer\\source\\repos\\oop\\baohiem\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|solutionrelative:baohiem\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|c:\\users\\acer\\source\\repos\\oop\\baohiem\\baohiemnganhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|solutionrelative:baohiem\\baohiemnganhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|c:\\users\\acer\\source\\repos\\oop\\baohiem\\baohiemdaihan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|solutionrelative:baohiem\\baohiemdaihan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|c:\\users\\acer\\source\\repos\\oop\\baohiem\\ibaohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|solutionrelative:baohiem\\ibaohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|c:\\users\\acer\\source\\repos\\oop\\baohiem\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|solutionrelative:baohiem\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|c:\\users\\acer\\source\\repos\\oop\\baohiem\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}|BaoHiem\\BaoHiem.csproj|solutionrelative:baohiem\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLyNhanSu.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\QuanLyNhanSu.cs",
+              "RelativeDocumentMoniker": "CongTyABC\\QuanLyNhanSu.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\QuanLyNhanSu.cs",
+              "RelativeToolTip": "CongTyABC\\QuanLyNhanSu.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:24:04.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanLyThongTin.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\QuanLyThongTin.cs",
+              "RelativeDocumentMoniker": "BaoHiem\\QuanLyThongTin.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\QuanLyThongTin.cs",
+              "RelativeToolTip": "BaoHiem\\QuanLyThongTin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:10:08.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaoHiem.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\BaoHiem.cs",
+              "RelativeDocumentMoniker": "BaoHiem\\BaoHiem.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\BaoHiem.cs",
+              "RelativeToolTip": "BaoHiem\\BaoHiem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:24:23.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\Program.cs",
+              "RelativeDocumentMoniker": "CongTyABC\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\Program.cs",
+              "RelativeToolTip": "CongTyABC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:58:32.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\Menu.cs",
+              "RelativeDocumentMoniker": "CongTyABC\\Menu.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\Menu.cs",
+              "RelativeToolTip": "CongTyABC\\Menu.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:50:59.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\Program.cs",
+              "RelativeDocumentMoniker": "BaoHiem\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\Program.cs",
+              "RelativeToolTip": "BaoHiem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:59:34.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IQuanLyNhanSu.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\IQuanLyNhanSu.cs",
+              "RelativeDocumentMoniker": "CongTyABC\\IQuanLyNhanSu.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\IQuanLyNhanSu.cs",
+              "RelativeToolTip": "CongTyABC\\IQuanLyNhanSu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:45:15.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NhanVienSanXuat.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\NhanVienSanXuat.cs",
+              "RelativeDocumentMoniker": "CongTyABC\\NhanVienSanXuat.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\NhanVienSanXuat.cs",
+              "RelativeToolTip": "CongTyABC\\NhanVienSanXuat.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:39:45.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NhanVienCongNhat.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\NhanVienCongNhat.cs",
+              "RelativeDocumentMoniker": "CongTyABC\\NhanVienCongNhat.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\NhanVienCongNhat.cs",
+              "RelativeToolTip": "CongTyABC\\NhanVienCongNhat.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:39:53.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NhanVienQuanLy.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\NhanVienQuanLy.cs",
+              "RelativeDocumentMoniker": "CongTyABC\\NhanVienQuanLy.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\NhanVienQuanLy.cs",
+              "RelativeToolTip": "CongTyABC\\NhanVienQuanLy.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwC4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:40:00.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\INhanVien.cs",
+              "RelativeDocumentMoniker": "CongTyABC\\INhanVien.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\INhanVien.cs",
+              "RelativeToolTip": "CongTyABC\\INhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:27:09.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\NhanVien.cs",
+              "RelativeDocumentMoniker": "CongTyABC\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\NhanVien.cs",
+              "RelativeToolTip": "CongTyABC\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:25:38.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoaiNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\LoaiNhanVien.cs",
+              "RelativeDocumentMoniker": "CongTyABC\\LoaiNhanVien.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\CongTyABC\\LoaiNhanVien.cs",
+              "RelativeToolTip": "CongTyABC\\LoaiNhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:25:54.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\LamLai\\Program.cs",
+              "RelativeDocumentMoniker": "LamLai\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\LamLai\\Program.cs",
+              "RelativeToolTip": "LamLai\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:32:41.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CongTyBaoHiem.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\CongTyBaoHiem.cs",
+              "RelativeDocumentMoniker": "BaoHiem\\CongTyBaoHiem.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\CongTyBaoHiem.cs",
+              "RelativeToolTip": "BaoHiem\\CongTyBaoHiem.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:29:48.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\NhanVien.cs",
+              "RelativeDocumentMoniker": "BaoHiem\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\NhanVien.cs",
+              "RelativeToolTip": "BaoHiem\\NhanVien.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:10:24.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaoHiemNganHan.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\BaoHiemNganHan.cs",
+              "RelativeDocumentMoniker": "BaoHiem\\BaoHiemNganHan.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\BaoHiemNganHan.cs",
+              "RelativeToolTip": "BaoHiem\\BaoHiemNganHan.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T03:53:53.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaoHiemDaiHan.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\BaoHiemDaiHan.cs",
+              "RelativeDocumentMoniker": "BaoHiem\\BaoHiemDaiHan.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\BaoHiemDaiHan.cs",
+              "RelativeToolTip": "BaoHiem\\BaoHiemDaiHan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T03:53:59.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBaoHiem.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\IBaoHiem.cs",
+              "RelativeDocumentMoniker": "BaoHiem\\IBaoHiem.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\IBaoHiem.cs",
+              "RelativeToolTip": "BaoHiem\\IBaoHiem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T03:57:59.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\Calculator.cs",
+              "RelativeDocumentMoniker": "BaoHiem\\Calculator.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\Calculator.cs",
+              "RelativeToolTip": "BaoHiem\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:38:47.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICalculator.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\ICalculator.cs",
+              "RelativeDocumentMoniker": "BaoHiem\\ICalculator.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\OOP\\BaoHiem\\ICalculator.cs",
+              "RelativeToolTip": "BaoHiem\\ICalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:38:19.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
