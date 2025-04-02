@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\OOP\LamLai\bin\Debug\net8.0\LamLai.exe
+C:\Users\acer\source\repos\OOP\LamLai\bin\Debug\net8.0\LamLai.deps.json
+C:\Users\acer\source\repos\OOP\LamLai\bin\Debug\net8.0\LamLai.runtimeconfig.json
+C:\Users\acer\source\repos\OOP\LamLai\bin\Debug\net8.0\LamLai.dll
+C:\Users\acer\source\repos\OOP\LamLai\bin\Debug\net8.0\LamLai.pdb
+C:\Users\acer\source\repos\OOP\LamLai\obj\Debug\net8.0\LamLai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\OOP\LamLai\obj\Debug\net8.0\LamLai.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\OOP\LamLai\obj\Debug\net8.0\LamLai.AssemblyInfo.cs
+C:\Users\acer\source\repos\OOP\LamLai\obj\Debug\net8.0\LamLai.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\OOP\LamLai\obj\Debug\net8.0\LamLai.dll
+C:\Users\acer\source\repos\OOP\LamLai\obj\Debug\net8.0\refint\LamLai.dll
+C:\Users\acer\source\repos\OOP\LamLai\obj\Debug\net8.0\LamLai.pdb
+C:\Users\acer\source\repos\OOP\LamLai\obj\Debug\net8.0\LamLai.genruntimeconfig.cache
+C:\Users\acer\source\repos\OOP\LamLai\obj\Debug\net8.0\ref\LamLai.dll

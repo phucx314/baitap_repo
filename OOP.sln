@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LamLai", "LamLai\LamLai.csproj", "{F6E60DAA-073E-4E27-B2F1-9D346D3BAA82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaoHiem", "BaoHiem\BaoHiem.csproj", "{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6E60DAA-073E-4E27-B2F1-9D346D3BAA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E60DAA-073E-4E27-B2F1-9D346D3BAA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E60DAA-073E-4E27-B2F1-9D346D3BAA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E60DAA-073E-4E27-B2F1-9D346D3BAA82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9B7F75-6D15-4BD2-BAC8-8E8935E5A2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC0A0CC-2C39-4416-8726-967127CEE623}
+	EndGlobalSection
+EndGlobal
