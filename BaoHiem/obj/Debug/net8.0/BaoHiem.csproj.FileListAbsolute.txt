@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\OOP\BaoHiem\bin\Debug\net8.0\BaoHiem.exe
+C:\Users\acer\source\repos\OOP\BaoHiem\bin\Debug\net8.0\BaoHiem.deps.json
+C:\Users\acer\source\repos\OOP\BaoHiem\bin\Debug\net8.0\BaoHiem.runtimeconfig.json
+C:\Users\acer\source\repos\OOP\BaoHiem\bin\Debug\net8.0\BaoHiem.dll
+C:\Users\acer\source\repos\OOP\BaoHiem\bin\Debug\net8.0\BaoHiem.pdb
+C:\Users\acer\source\repos\OOP\BaoHiem\obj\Debug\net8.0\BaoHiem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\OOP\BaoHiem\obj\Debug\net8.0\BaoHiem.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\OOP\BaoHiem\obj\Debug\net8.0\BaoHiem.AssemblyInfo.cs
+C:\Users\acer\source\repos\OOP\BaoHiem\obj\Debug\net8.0\BaoHiem.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\OOP\BaoHiem\obj\Debug\net8.0\BaoHiem.sourcelink.json
+C:\Users\acer\source\repos\OOP\BaoHiem\obj\Debug\net8.0\BaoHiem.dll
+C:\Users\acer\source\repos\OOP\BaoHiem\obj\Debug\net8.0\refint\BaoHiem.dll
+C:\Users\acer\source\repos\OOP\BaoHiem\obj\Debug\net8.0\BaoHiem.pdb
+C:\Users\acer\source\repos\OOP\BaoHiem\obj\Debug\net8.0\BaoHiem.genruntimeconfig.cache
+C:\Users\acer\source\repos\OOP\BaoHiem\obj\Debug\net8.0\ref\BaoHiem.dll
